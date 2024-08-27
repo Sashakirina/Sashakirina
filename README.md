@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+[![Oleksandra Kirina profile views](https://u8views.com/api/v1/github/profiles/111364619/views/day-week-month-total-count.svg)](https://u8views.com/github/Sashakirina)
+
+<a href="https://u8views.com/github/Sashakirina"><img src="https://u8views.com/api/v1/github/profiles/111364619/views/day-week-month-total-count.svg"></a>
+
 <!--
 **Sashakirina/Sashakirina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
